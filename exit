@@ -1,0 +1,42 @@
+[33mcommit 67071016cfa2a1747c6396874b374c569be8fb29[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature/login[m[33m, [m[1;32mmain[m[33m)[m
+Merge: cf4ad4b 4392889
+Author: Itzel Salas Hernandez <itzelsalas1215@gmail.com>
+Date:   Fri Feb 2 10:46:02 2024 -0600
+
+    Resolviendo con git
+
+[33mcommit 4392889d23e928e879b357d2862fb36dae8ffff0[m
+Author: Itzel Salas Hernandez <itzelsalas1215@gmail.com>
+Date:   Fri Feb 2 10:42:04 2024 -0600
+
+    Modificacion desde la rama feature/login
+
+[33mcommit cf4ad4b5465358527af71344b8f9515d82259fd9[m
+Author: Itzel Salas Hernandez <itzelsalas1215@gmail.com>
+Date:   Fri Feb 2 10:38:36 2024 -0600
+
+    Modificacion desde la rama main
+
+[33mcommit 092c26f6a8b4af978f7f7a48dc7567f17c9fdf7e[m
+Author: Itzel Salas Hernandez <itzelsalas1215@gmail.com>
+Date:   Fri Feb 2 10:32:19 2024 -0600
+
+    Se agregan los cambios
+
+[33mcommit 05509999b15ae80259595c2f569b29c6cc66fee1[m
+Author: Itzel Salas Hernandez <itzelsalas1215@gmail.com>
+Date:   Fri Feb 2 10:25:22 2024 -0600
+
+    Se ha agregado el archivo gitignore
+
+[33mcommit 9bb5c9d1618fd84d3fdd345bc552f71d15aead62[m
+Author: Itzel Salas Hernandez <itzelsalas1215@gmail.com>
+Date:   Fri Feb 2 10:08:18 2024 -0600
+
+    Se ha modificado el archivo index.html
+
+[33mcommit ccc4ca4486f14b78915a9ec6592eec486ba902ea[m
+Author: Itzel Salas Hernandez <itzelsalas1215@gmail.com>
+Date:   Fri Feb 2 09:55:25 2024 -0600
+
+    Mi primer Commit
